@@ -1,0 +1,6 @@
+{
+  "name": "Servis Erzurum",
+  "description": "Erzurum Peugeot ve Citroën Özel Servisi - Mahmut Usta Bakım, Onarım ve Yedek Parça Hizmetleri",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
